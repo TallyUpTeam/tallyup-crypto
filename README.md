@@ -1,5 +1,5 @@
 # tallyup-crypto
-Tallyup is building crypto’s killer mainstream game with the first and possibly only viable P2E economic models in crypto.
+Tallyup is building crypto’s killer mainstream game with the first and possibly only viable P2E economic model in crypto.
 
 It is designed to unlock crypto and earning to every human with a phone, without reliance on unsustainable ponzinomics or risk to players. To read more on how the system works, please visit the links below.
 
